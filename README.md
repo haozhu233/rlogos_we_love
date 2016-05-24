@@ -17,6 +17,6 @@ Sometimes I feel there is a need to use a font-awesome style icon to mark our fa
 	<link rel="stylesheet" href="rlogos_we_love/style.css" />
 </head>
 <body>
-<h1><i class="icon-shiny"></i></h1>
+<h1><i class="icon-Rlogo"></i></h1>
 </body>
 ```
