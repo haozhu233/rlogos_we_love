@@ -9,7 +9,14 @@ Sometimes I feel there is a need to use a font-awesome style icon to mark our fa
 
 # Example
 ```html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset=utf-8>
+	<title></title>
+	<link rel="stylesheet" href="rlogos_we_love/style.css" />
+</head>
 <body>
-<i class="icon-shiny"></i>
+<h1><i class="icon-shiny"></i></h1>
 </body>
 ```
